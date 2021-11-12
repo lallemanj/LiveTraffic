@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\LiveInfoTrafficProject.exe.config
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\LiveInfoTrafficProject.exe
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\LiveInfoTrafficProject.pdb
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.exe
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.pdb
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\LiveTraffic.mdf
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\bin\Debug\LiveTraffic_log.ldf
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.LiveTrafficData.resources
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.LiveTraffic.resources
+C:\Users\Gebruiker\source\repos\LiveInfoTrafficProject\obj\Debug\LiveInfoTrafficProject.LiveTrafficDataBank.resources
